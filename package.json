@@ -1,0 +1,11 @@
+{
+  "name": "javascript-30-days",
+  "version": "1.0.0",
+  "description": "projects for wes bos' course javascript30",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amy-kate andrews",
+  "license": "ISC"
+}
